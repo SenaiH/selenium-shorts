@@ -1,0 +1,31 @@
+
+
+Topics: findElements(), isDisplayed/isEnabled, radio button and checkbox button
+
+
+TC: As a user I should be able to see Home, About us, Our Approach, Product and Services, Contact and LOGIN labels are displayed
+
+  1- open a chrome browser       
+  2- goto https://vytrack.com/
+  3- verify Home, About us, Our Approach, Product and Services, Contact and LOGIN labels are displayed
+
+
+
+TC: isDisplayed/isEnabled
+
+   1- Navigate to "http://www.uitestpractice.com/"
+   2- Verify main page is launched;
+   3-"Testing Controls" Tab should be displayed on left top (visible and enabled)
+
+
+
+TC: Etsy search results checkbox,radiobutton test
+
+		TC: Etsy checkbox and radio button
+		1. Go to https://www.etsy.com
+		2. Search for “wooden spoon”
+		3. Click on filters
+		4. Select free shipping, on sale
+		5. Select under $25 Click on apply filters
+		6. Print count of results
+            

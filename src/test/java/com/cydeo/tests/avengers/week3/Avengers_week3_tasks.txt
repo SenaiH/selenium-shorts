@@ -1,0 +1,30 @@
+
+
+Task 1:  Iframe
+
+ - Open "https://demoqa.com/frames"
+ - Verify child frames texts are equal : "This is a sample page"
+
+
+
+Task 2:   Web Table 
+
+	        - Open "http://practice.cydeo.com/tables"
+	        - Print out all infromation for firstname ="Frank"
+	        - Verify 
+	        		- email equals "fbach@yahoo.com"
+
+	       NOTE : This task needs to work for 
+	                firstname = Jason
+	                email     = jdoe@hotmail.com	
+
+
+
+Task 3:  Window Handles
+   
+   - Navigate to "https://testpages.herokuapp.com/styled/windows-test.html"
+   - Click Basic Ajax in new page
+   - Click Attributes in new page
+   - Click Alerts In A New Window From JavaScript
+   - Switch to "Element Attributes Examples" window 
+   - Assert header is Element Attributes Examples

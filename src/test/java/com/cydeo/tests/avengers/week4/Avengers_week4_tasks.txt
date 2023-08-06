@@ -1,0 +1,34 @@
+
+Task#1: Actions Practice
+
+    - Go to  "https://www.globalsqa.com/demo-site/draganddrop/"
+    - Drag and Drop "High Tatras" and "High Tatras 2" into "Trash"
+    - Verify Trash has 2 photo
+
+
+ Task#2:  Explicit Wait Practice
+
+   		- Go to "https://testpages.herokuapp.com/styled/dynamic-buttons-disabled.html"
+   		- Click buttons in order
+   		- Verify messages are equal after click all buttons
+   				- All Buttons Clicked
+   				- Clickable Buttons
+   				- Click Buttons In Order
+
+
+ Task#3: Faker Practice:
+
+        1. Launch browser
+        2. Navigate to url 'https://automationexercise.com/login'
+        3. Verify 'New User Signup!' is visible
+        4. Enter name and email address
+        5. Click 'Signup' button
+        6. Verify that 'ENTER ACCOUNT INFORMATION' is visible
+        7. Fill details: Title, Name, Email, Password, Date of birth
+        8. Select checkbox 'Sign up for our newsletter!'
+        9. Select checkbox 'Receive special offers from our partners!'
+        10. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+        11. Click 'Create Account button'
+        12. Verify that 'ACCOUNT CREATED!' is visible
+        13. Click 'Continue' button
+        14. Verify that 'Logged in as username' is visible
